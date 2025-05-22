@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ram/docker_github_actions:latest
+          tags: ram1234ram/ram:latest
 
